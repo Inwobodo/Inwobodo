@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**Inwobodo/Inwobodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdaily.bandcamp.com%2Flists%2Fafrofuturism-list&psig=AOvVaw3SQ8IBpp-e4BSU6bvXJfe3&ust=1757986150621000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjTk_jO2Y8DFQAAAAAdAAAAABAL" alt="Profile Banner" width="100%" />
 </div>
@@ -30,7 +14,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-’m a Data and AI professional with experience leading teams and building solutions that combine analytics, machine learning, and business intelligence to drive measurable outcomes. My work spans NLP, chatbots, workflow automation, and predictive analytics, always with the goal of improving engagement, efficiency, and decision-making. What motivates me is using data strategy and AI engineering not just to analyze the past, but to shape better outcomes for businesses and people.
+I’m a Data and AI professional with experience leading teams and building solutions that combine analytics, machine learning, and business intelligence to drive measurable outcomes. My work spans NLP, chatbots, workflow automation, and predictive analytics, always with the goal of improving engagement, efficiency, and decision-making. What motivates me is using data strategy and AI engineering not just to analyze the past, but to shape better outcomes for businesses and people.
 
 ## 📚 Learning & Knowledge
 
