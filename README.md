@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m a Data and AI professional with experience leading teams and building solutions that combine analytics, machine learning, and business intelligence to drive measurable outcomes. My work spans NLP, chatbots, workflow automation, and predictive analytics, always with the goal of improving engagement, efficiency, and decision-making. What motivates me is using data strategy and AI engineering not just to analyze the past, but to shape better outcomes for businesses and people.
+’m a Data and AI professional with experience leading teams and building solutions that combine analytics, machine learning, and business intelligence to drive measurable outcomes. My work spans NLP, chatbots, workflow automation, and predictive analytics, always with the goal of improving engagement, efficiency, and decision-making. What motivates me is using data strategy and AI engineering not just to analyze the past, but to shape better outcomes for businesses and people.
 
 ## 📚 Learning & Knowledge
 
@@ -29,11 +29,44 @@ I’m a Data and AI professional with experience leading teams and building solu
 | Company | Position | Duration |
 |---|---|---|
 | 10Alytics | Seniot Data Science Associate | 2025-01 - Present |
+| Octave Incorporation | Data Scientist | 2023-08 - 2024-12 |
 
 ### Seniot Data Science Associate at 10Alytics
 *Alberta, Canadas*
 
+Led and mentored a team of 5 data scientists, improving delivery timelines by 40% while embedding best practices in 
+analytics and AI engineering. 
+• Delivered analytics and AI solutions through 10Alytics Business for US and global B2B clients, including fintech firms like 
+Kuda, achieving a 95% client satisfaction score. 
+• Designed and optimized the Oluko AI chatbot using A/B testing on conversational flows, boosting learner engagement and 
+retention. 
+• Built a Twilio + Deepgram voice AI sales agent that automated lead qualification, cutting response time from hours to real 
+time and improving conversion rates. 
+• Implemented LLM-powered engagement tools with RAG, enhancing chatbot response accuracy and user interaction by 
+35%. 
+• Developed interactive Tableau dashboards as a single source of truth for SaaS and edtech metrics, driving faster, data
+informed decisions. 
+• Collaborated with cross-functional teams (engineering, marketing, sales, customer success) to align data strategy with 
+business goals, increasing operational efficiency by 25%. 
+• Conducted live classes and mentorship sessions for US and international learners, strengthening adoption of SQL, Python, 
+and BI tools in practical projects. 
+
 **Technologies:** python, tableau, SQL, Microsoft Excel, VSCode, Docker, LangChain, CrewAI, n8n
+
+### Data Scientist at Octave Incorporation
+*Lagos, Nigeria*
+
+Spearheaded and directed pivotal machine learning initiatives as a core member of the Melody AI development 
+team, contributing to the creation of a revolutionary LLM powered no-code data analytics and machine learning 
+product. 
+• Collaborated in the development of user-friendly interfaces and dashboards within Melody AI, making complex 
+data analytics and machine learning accessible to a broader audience. 
+• Collaborated closely with cross-functional teams to interpret business needs, develop comprehensive project 
+strategies, and deliver data-driven solutions that empower rapid business growth.
+• Leveraged advanced statistical analysis, predictive modeling, and deep learning techniques to extract actionable 
+insights from complex datasets, resulting in optimized decision-making processes for clients. 
+
+**Technologies:** python, react, pandas, HuggingFace
 
 ## 🎓 Education
 
