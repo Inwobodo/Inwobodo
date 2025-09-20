@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdaily.bandcamp.com%2Flists%2Fafrofuturism-list&psig=AOvVaw3SQ8IBpp-e4BSU6bvXJfe3&ust=1757986150621000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjTk_jO2Y8DFQAAAAAdAAAAABAL" alt="Profile Banner" width="100%" />
+  <img src="https://www.canva.com/design/DAGxchtvJFw/6iRlotdQLV2Ccjg0EBcWJg/view?utm_content=DAGxchtvJFw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5bfa5d1992" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
