@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGxchtvJFw/6iRlotdQLV2Ccjg0EBcWJg/view?utm_content=DAGxchtvJFw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5bfa5d1992" alt="Profile Banner" width="100%" />
+  <img src="<img width="1584" height="396" alt="Gradient Geometric Creative Agency LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/2bbc21b2-3a8d-4d65-8c39-657158932445" />" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
