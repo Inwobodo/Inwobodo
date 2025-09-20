@@ -6,9 +6,6 @@
 # Hi 👋, I'm Ifeanyi Nwobodo
 
 ### Data and AI 
-
-<img src="https://github.com/Inwobodo.png" alt="Ifeanyi Nwobodo" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
 
 ## 🚀 About Me
