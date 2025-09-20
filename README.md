@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="<img width="1584" height="396" alt="Gradient Geometric Creative Agency LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/2bbc21b2-3a8d-4d65-8c39-657158932445" />" alt="Profile Banner" width="100%" />
-</div>
+<div align="center"
+  <img width="1584" height="396" alt="Gradient Geometric Creative Agency LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/3392ee2b-1c6f-43b0-a71f-d4e6068b05bd" />
+r">
 
 <div align="center">
 
