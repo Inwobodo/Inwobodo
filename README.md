@@ -6,7 +6,7 @@
 # Hi 👋, I'm Ifeanyi Nwobodo
 
 ### Data and AI 
-</div>
+
 <div align="left>
 ## 🚀 About Me
 
