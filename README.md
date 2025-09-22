@@ -29,7 +29,7 @@ I’m a Data and AI professional with experience leading teams and building solu
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inwobodo)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lies_and_stats)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifeanyichukwu-nwobodo)&nbsp;&nbsp;&nbsp;[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ifeanyichukwunwobodo)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ifeanyi_ai)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348161799885)
 
-</div>
+
 
 ## 🛠️ Skills & Technologies
 
