@@ -1,5 +1,6 @@
 <div align="center">
   <img width="1584" height="396" alt="Gradient Geometric Creative Agency LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/3392ee2b-1c6f-43b0-a71f-d4e6068b05bd">
+
 <div align="center">
 
 # Hi 👋, I'm Ifeanyi Nwobodo
