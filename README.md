@@ -20,7 +20,6 @@ I’m a Data and AI professional with experience leading teams and building solu
 
 </div>
 
-
 ## 📞 Contact & Links
 
 <div align="left">
