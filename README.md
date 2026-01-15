@@ -13,7 +13,6 @@
 I’m a Data and AI professional with experience leading teams and building solutions that combine analytics, machine learning, and business intelligence to drive measurable outcomes. My work spans NLP, chatbots, workflow automation, and predictive analytics, always with the goal of improving engagement, efficiency, and decision-making. What motivates me is using data strategy and AI engineering not just to analyze the past, but to shape better outcomes for businesses and people.
 <div>
 
-
 ## 📞 Contact & Links
 
 <div align="left">
